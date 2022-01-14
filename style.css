@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+ 
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+  font-family:cursive,impact,sans-seri;
 }
 
 html {
